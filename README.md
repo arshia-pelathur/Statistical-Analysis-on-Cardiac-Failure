@@ -1,8 +1,7 @@
 # Statistical-Analysis-on-Cardiac-Failure
 
 ### Problem Statement: 
-Web scraping of music data from SOngMeanings.com to perform a sentimental analysis on song lyrics and comments and to bring out a simple recommendation system.
-
+To predict the survival of patients that have suffered a Cardiac Failure
 
 ### Introduction:
 Cardiac Failure occurs when the heart is not able to pump enough blood to the body.
